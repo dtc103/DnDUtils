@@ -4,41 +4,41 @@
             {
                 "difficulty": "minor",
                 "category": [
-                    {"name": "Armor and shields", "value_min": 1, "value_max": 4, "repeat": "false"},
-                    {"name": "Weapons", "value_min": 5, "value_max": 9, "repeat": "false"},
-                    {"name": "Potions", "value_min": 10, "value_max": 44, "repeat": "false"},
-                    {"name": "Rings", "value_min": 45, "value_max": 46, "repeat": "false"},
-                    {"name": "Scrolls", "value_min": 47, "value_max": 81, "repeat": "false"},
-                    {"name": "Wands", "value_min": 81, "value_max": 91, "repeat": "false"},
-                    {"name": "Wondrous items", "value_min": 92, "value_max": 100, "repeat": "false"}
+                    {"name": "Armor and shields",                   "value_min": 1,     "value_max": 4,     "repeat": "false"},
+                    {"name": "Weapons",                             "value_min": 5,     "value_max": 9,     "repeat": "false"},
+                    {"name": "Potions",                             "value_min": 10,    "value_max": 44,    "repeat": "false"},
+                    {"name": "Rings",                               "value_min": 45,    "value_max": 46,    "repeat": "false"},
+                    {"name": "Scrolls",                             "value_min": 47,    "value_max": 81,    "repeat": "false"},
+                    {"name": "Wands",                               "value_min": 81,    "value_max": 91,    "repeat": "false"},
+                    {"name": "Wondrous items",                      "value_min": 92,    "value_max": 100,   "repeat": "false"}
                 ]
             },
             {
                 "difficulty": "medium",
                 "category": [
-                    {"name": "Armor and shields", "value_min": 1, "value_max": 10, "repeat": "false"},
-                    {"name": "Weapons", "value_min": 11, "value_max": 20, "repeat": "false"},
-                    {"name": "Potions", "value_min": 21, "value_max": 30, "repeat": "false"},
-                    {"name": "Rings", "value_min": 31, "value_max": 40, "repeat": "false"},
-                    {"name": "Rods", "value_min": 41, "value_max": 50, "repeat": "false"},
-                    {"name": "Scrolls", "value_min": 51, "value_max": 65, "repeat": "false"},
-                    {"name": "Staffs", "value_min": 66, "value_max": 68, "repeat": "false"},
-                    {"name": "Wands", "value_min": 69, "value_max": 83, "repeat": "false"},
-                    {"name": "Wondrous items", "value_min": 84, "value_max": 100, "repeat": "false"}
+                    {"name": "Armor and shields",                   "value_min": 1,     "value_max": 10,    "repeat": "false"},
+                    {"name": "Weapons",                             "value_min": 11,    "value_max": 20,    "repeat": "false"},
+                    {"name": "Potions",                             "value_min": 21,    "value_max": 30,    "repeat": "false"},
+                    {"name": "Rings",                               "value_min": 31,    "value_max": 40,    "repeat": "false"},
+                    {"name": "Rods",                                "value_min": 41,    "value_max": 50,    "repeat": "false"},
+                    {"name": "Scrolls",                             "value_min": 51,    "value_max": 65,    "repeat": "false"},
+                    {"name": "Staffs",                              "value_min": 66,    "value_max": 68,    "repeat": "false"},
+                    {"name": "Wands",                               "value_min": 69,    "value_max": 83,    "repeat": "false"},
+                    {"name": "Wondrous items",                      "value_min": 84,    "value_max": 100,   "repeat": "false"}
                 ]
             },
             {
                 "difficulty": "major",
                 "category": [
-                    {"name": "Armor and shields", "value_min": 1, "value_max": 10, "repeat": "false"},
-                    {"name": "Weapons", "value_min": 11, "value_max": 20, "repeat": "false"},
-                    {"name": "Potions", "value_min": 21, "value_max": 25, "repeat": "false"},
-                    {"name": "Rings", "value_min": 26, "value_max": 35, "repeat": "false"},
-                    {"name": "Rods", "value_min": 36, "value_max": 45, "repeat": "false"},
-                    {"name": "Scrolls", "value_min": 46, "value_max": 55, "repeat": "false"},
-                    {"name": "Staffs", "value_min": 65, "value_max": 75, "repeat": "false"},
-                    {"name": "Wands", "value_min": 76, "value_max": 80, "repeat": "false"},
-                    {"name": "Wondrous items", "value_min": 81, "value_max": 100, "repeat": "false"}
+                    {"name": "Armor and shields",                   "value_min": 1,     "value_max": 10,    "repeat": "false"},
+                    {"name": "Weapons",                             "value_min": 11,    "value_max": 20,    "repeat": "false"},
+                    {"name": "Potions",                             "value_min": 21,    "value_max": 25,    "repeat": "false"},
+                    {"name": "Rings",                               "value_min": 26,    "value_max": 35,    "repeat": "false"},
+                    {"name": "Rods",                                "value_min": 36,    "value_max": 45,    "repeat": "false"},
+                    {"name": "Scrolls",                             "value_min": 46,    "value_max": 55,    "repeat": "false"},
+                    {"name": "Staffs",                              "value_min": 65,    "value_max": 75,    "repeat": "false"},
+                    {"name": "Wands",                               "value_min": 76,    "value_max": 80,    "repeat": "false"},
+                    {"name": "Wondrous items",                      "value_min": 81,    "value_max": 100,   "repeat": "false"}
                 ]
             }
         ],
@@ -46,43 +46,53 @@
             {
                 "difficulty": "minor",
                 "category": [
-                    {"name": "+1 shield", "value_min": 1, "value_max": 60, "repeat": "false"},
-                    {"name": "+1 armor", "value_min": 61, "value_max": 80, "repeat": "false"},
-                    {"name": "+2 shield", "value_min": 81, "value_max": 85, "repeat": "false"},
-                    {"name": "+2 armor", "value_min": 86, "value_max": 87, "repeat": "false"},
-                    {"name": "Specific armor", "value_min": 88, "value_max": 89, "repeat": "false"},
-                    {"name": "Specific shield", "value_min": 90, "value_max": 91, "repeat": "false"},
-                    {"name": "Special ability", "value_min": 92, "value_max": 100, "repeat": "true"}
+                    {"name": "+1 shield",                           "value_min": 1,     "value_max": 60,    "repeat": "false",      "base_price": 1000,     "enhancement_bonus": 1},
+                    {"name": "+1 armor",                            "value_min": 61,    "value_max": 80,    "repeat": "false",      "base_price": 1000,     "enhancement_bonus": 1},
+                    {"name": "+2 shield",                           "value_min": 81,    "value_max": 85,    "repeat": "false",      "base_price": 4000,     "enhancement_bonus": 2},
+                    {"name": "+2 armor",                            "value_min": 86,    "value_max": 87,    "repeat": "false",      "base_price": 4000,     "enhancement_bonus": 2},
+                    {"name": "Specific armor",                      "value_min": 88,    "value_max": 89,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 0},
+                    {"name": "Specific shield",                     "value_min": 90,    "value_max": 91,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 0},
+                    {"name": "Special ability",                     "value_min": 92,    "value_max": 100,   "repeat": "true",       "base_price": 0,        "enhancement_bonus": 0}
                 ]
             },
             {
                 "difficulty": "medium",
                 "category": [
-                    {"name": "+1 shield", "value_min": 1, "value_max": 5, "repeat": "false"},
-                    {"name": "+1 armor", "value_min": 6, "value_max": 10, "repeat": "false"},
-                    {"name": "+2 shield", "value_min": 11, "value_max": 20, "repeat": "false"},
-                    {"name": "+2 armor", "value_min": 21, "value_max": 30, "repeat": "false"},
-                    {"name": "+3 shield", "value_min": 31, "value_max": 40, "repeat": "false"},
-                    {"name": "+3 armor", "value_min": 41, "value_max": 50, "repeat": "false"},
-                    {"name": "+4 shield", "value_min": 51, "value_max": 55, "repeat": "false"},
-                    {"name": "+4 armor", "value_min": 56, "value_max": 57, "repeat": "false"},
-                    {"name": "Specific armor", "value_min": 58, "value_max": 60, "repeat": "false"},
-                    {"name": "Specific shield", "value_min": 61, "value_max": 63, "repeat": "false"},
-                    {"name": "Special ability", "value_min": 64, "value_max": 100, "repeat": "true"}
+                    {"name": "+1 shield",                           "value_min": 1,     "value_max": 5,     "repeat": "false" ,     "base_price": 1000,     "enhancement_bonus": 1},
+                    {"name": "+1 armor",                            "value_min": 6,     "value_max": 10,    "repeat": "false" ,     "base_price": 1000,     "enhancement_bonus": 1},
+                    {"name": "+2 shield",                           "value_min": 11,    "value_max": 20,    "repeat": "false" ,     "base_price": 4000,     "enhancement_bonus": 2},
+                    {"name": "+2 armor",                            "value_min": 21,    "value_max": 30,    "repeat": "false" ,     "base_price": 4000,     "enhancement_bonus": 2},
+                    {"name": "+3 shield",                           "value_min": 31,    "value_max": 40,    "repeat": "false" ,     "base_price": 9000,     "enhancement_bonus": 3},
+                    {"name": "+3 armor",                            "value_min": 41,    "value_max": 50,    "repeat": "false" ,     "base_price": 9000,     "enhancement_bonus": 3},
+                    {"name": "+4 shield",                           "value_min": 51,    "value_max": 55,    "repeat": "false" ,     "base_price": 16000,    "enhancement_bonus": 4},
+                    {"name": "+4 armor",                            "value_min": 56,    "value_max": 57,    "repeat": "false" ,     "base_price": 16000,    "enhancement_bonus": 4},
+                    {"name": "Specific armor",                      "value_min": 58,    "value_max": 60,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 0},
+                    {"name": "Specific shield",                     "value_min": 61,    "value_max": 63,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 0},
+                    {"name": "Special ability",                     "value_min": 64,    "value_max": 100,   "repeat": "true",       "base_price": 0,        "enhancement_bonus": 0}
                 ]
             },
             {
                 "difficulty": "major",
                 "category": [
-                    {"name": "+3 shield", "value_min": 1, "value_max": 8, "repeat": "false"},
-                    {"name": "+3 armor", "value_min": 9, "value_max": 16, "repeat": "false"},
-                    {"name": "+4 shield", "value_min": 17, "value_max": 27, "repeat": "false"},
-                    {"name": "+4 armor", "value_min": 28, "value_max": 38, "repeat": "false"},
-                    {"name": "+5 shield", "value_min": 39, "value_max": 49, "repeat": "false"},
-                    {"name": "+5 armor", "value_min": 50, "value_max": 57, "repeat": "false"},
-                    {"name": "Specific armor", "value_min": 58, "value_max": 60, "repeat": "false"},
-                    {"name": "Specific shield", "value_min": 61, "value_max": 63, "repeat": "false"},
-                    {"name": "Special ability", "value_min": 64, "value_max": 100, "repeat": "true"}
+                    {"name": "+3 shield",                           "value_min": 1,     "value_max": 8,     "repeat": "false" ,     "base_price" : 9000,    "enhancement_bonus": 3},
+                    {"name": "+3 armor",                            "value_min": 9,     "value_max": 16,    "repeat": "false" ,     "base_price" : 9000,    "enhancement_bonus": 3},
+                    {"name": "+4 shield",                           "value_min": 17,    "value_max": 27,    "repeat": "false" ,     "base_price" : 16000,   "enhancement_bonus": 4},
+                    {"name": "+4 armor",                            "value_min": 28,    "value_max": 38,    "repeat": "false" ,     "base_price" : 16000,   "enhancement_bonus": 4},
+                    {"name": "+5 shield",                           "value_min": 39,    "value_max": 49,    "repeat": "false" ,     "base_price" : 25000,   "enhancement_bonus": 5},
+                    {"name": "+5 armor",                            "value_min": 50,    "value_max": 57,    "repeat": "false" ,     "base_price" : 25000,   "enhancement_bonus": 5},
+                    {"name": "Specific armor",                      "value_min": 58,    "value_max": 60,    "repeat": "false",      "base_price" : 0,       "enhancement_bonus": 0},
+                    {"name": "Specific shield",                     "value_min": 61,    "value_max": 63,    "repeat": "false",      "base_price" : 0,       "enhancement_bonus": 0},
+                    {"name": "Special ability",                     "value_min": 64,    "value_max": 100,   "repeat": "true",       "base_price" : 0,       "enhancement_bonus": 0},
+                    {"name": "+6 shield",                                                                                           "base_price": 36000},
+                    {"name": "+7 shield",                                                                                           "base_price": 49000},
+                    {"name": "+8 shield",                                                                                           "base_price": 64000},
+                    {"name": "+9 shield",                                                                                           "base_price": 81000},
+                    {"name": "+10 shield",                                                                                          "base_price": 100000},
+                    {"name": "+6 armor",                                                                                            "base_price": 36000},
+                    {"name": "+7 armor",                                                                                            "base_price": 49000},
+                    {"name": "+8 armor",                                                                                            "base_price": 64000},
+                    {"name": "+9 armor",                                                                                            "base_price": 81000},
+                    {"name": "+10 armor",                                                                                           "base_price": 100000}
                 ]
             }
         ],
@@ -90,18 +100,18 @@
             {
                 "difficulty": "every",
                 "category": [
-                    {"name": "Padded", "value_min": 1, "value_max": 1, "repeat": "false"},
-                    {"name": "Leather", "value_min": 2, "value_max": 2, "repeat": "false"},
-                    {"name": "Studded leather", "value_min": 3, "value_max": 17, "repeat": "false"},
-                    {"name": "Chain shirt", "value_min": 18, "value_max": 32, "repeat": "false"},
-                    {"name": "Hide", "value_min": 33, "value_max": 42, "repeat": "false"},
-                    {"name": "Scale mail", "value_min": 43, "value_max": 43, "repeat": "false"},
-                    {"name": "Chainmail", "value_min": 44, "value_max": 44, "repeat": "false"},
-                    {"name": "Breastplate", "value_min": 45, "value_max": 57, "repeat": "false"},
-                    {"name": "Splint mail", "value_min": 58, "value_max": 58, "repeat": "false"},
-                    {"name": "Banded mail", "value_min": 59, "value_max": 59, "repeat": "false"},
-                    {"name": "Half-plate", "value_min": 60, "value_max": 60, "repeat": "false"},
-                    {"name": "Full plate", "value_min": 61, "value_max": 100, "repeat": "false"}
+                    {"name": "Padded",                              "value_min": 1,     "value_max": 1,     "repeat": "false",      "base_price": 155},
+                    {"name": "Leather",                             "value_min": 2,     "value_max": 2,     "repeat": "false",      "base_price": 160},
+                    {"name": "Studded leather",                     "value_min": 3,     "value_max": 17,    "repeat": "false",      "base_price": 175},
+                    {"name": "Chain shirt",                         "value_min": 18,    "value_max": 32,    "repeat": "false",      "base_price": 250},
+                    {"name": "Hide",                                "value_min": 33,    "value_max": 42,    "repeat": "false",      "base_price": 165},
+                    {"name": "Scale mail",                          "value_min": 43,    "value_max": 43,    "repeat": "false",      "base_price": 200},
+                    {"name": "Chainmail",                           "value_min": 44,    "value_max": 44,    "repeat": "false",      "base_price": 300},
+                    {"name": "Breastplate",                         "value_min": 45,    "value_max": 57,    "repeat": "false",      "base_price": 350},
+                    {"name": "Splint mail",                         "value_min": 58,    "value_max": 58,    "repeat": "false",      "base_price": 350},
+                    {"name": "Banded mail",                         "value_min": 59,    "value_max": 59,    "repeat": "false",      "base_price": 400},
+                    {"name": "Half-plate",                          "value_min": 60,    "value_max": 60,    "repeat": "false",      "base_price": 750},
+                    {"name": "Full plate",                          "value_min": 61,    "value_max": 100,   "repeat": "false",      "base_price": 1650}
                     
                 ]
             }
@@ -110,12 +120,12 @@
             {
                 "difficulty": "every",
                 "category": [
-                    {"name": "Buckler", "value_min": 1, "value_max": 10, "repeat": "false"},
-                    {"name": "Shield, light, wooden", "value_min": 11, "value_max": 15, "repeat": "false"},
-                    {"name": "Shield, heavy, steel", "value_min": 16, "value_max": 20, "repeat": "false"},
-                    {"name": "Shield, heavy, wooden", "value_min": 21, "value_max": 30, "repeat": "false"},
-                    {"name": "Padded, heavy, steel", "value_min": 31, "value_max": 95, "repeat": "false"},
-                    {"name": "Shield, tower", "value_min": 96, "value_max": 100, "repeat": "false"}
+                    {"name": "Buckler",                             "value_min": 1,     "value_max": 10,    "repeat": "false" ,     "base_price": 165},
+                    {"name": "Shield, light, wooden",               "value_min": 11,    "value_max": 15,    "repeat": "false" ,     "base_price": 153},
+                    {"name": "Shield, heavy, steel",                "value_min": 16,    "value_max": 20,    "repeat": "false" ,     "base_price": 159},
+                    {"name": "Shield, heavy, wooden",               "value_min": 21,    "value_max": 30,    "repeat": "false" ,     "base_price": 157},
+                    {"name": "Padded, heavy, steel",                "value_min": 31,    "value_max": 95,    "repeat": "false" ,     "base_price": 170},
+                    {"name": "Shield, tower",                       "value_min": 96,    "value_max": 100,   "repeat": "false" ,     "base_price": 180}
                 ]
             }
         ],
@@ -123,80 +133,80 @@
             {
                 "difficulty": "minor",
                 "category" :[
-                    {"name": "Glamered", "value_min": 1, "value_max": 25, "repeat": "false"},
-                    {"name": "Fortification, light", "value_min": 26, "value_max": 32, "repeat": "false"},
-                    {"name": "Slick", "value_min": 33, "value_max": 52, "repeat": "false"},
-                    {"name": "Shadow", "value_min": 53, "value_max": 72, "repeat": "false"},
-                    {"name": "Silent moves", "value_min": 73, "value_max": 92, "repeat": "false"},
-                    {"name": "Spell resistance (13)", "value_min": 93, "value_max": 96, "repeat": "false"},
-                    {"name": "Slick, improved", "value_min": 97, "value_max": 97, "repeat": "false"},
-                    {"name": "Shadow, improved", "value_min": 98, "value_max": 98, "repeat": "false"},
-                    {"name": "Silent moves, improved", "value_min": 99, "value_max": 99, "repeat": "false"},
-                    {"name": "Roll twice again", "value_min": 100, "value_max": 100, "repeat": "true"}
+                    {"name": "Glamered",                            "value_min": 1,     "value_max": 25,    "repeat": "false",      "base_price": 2700,     "enhancement_bonus": 0},
+                    {"name": "Fortification, light",                "value_min": 26,    "value_max": 32,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 1},
+                    {"name": "Slick",                               "value_min": 33,    "value_max": 52,    "repeat": "false",      "base_price": 3750,     "enhancement_bonus": 0},
+                    {"name": "Shadow",                              "value_min": 53,    "value_max": 72,    "repeat": "false",      "base_price": 3750,     "enhancement_bonus": 0},
+                    {"name": "Silent moves",                        "value_min": 73,    "value_max": 92,    "repeat": "false",      "base_price": 3750,     "enhancement_bonus": 0},
+                    {"name": "Spell resistance (13)",               "value_min": 93,    "value_max": 96,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 2},
+                    {"name": "Slick, improved",                     "value_min": 97,    "value_max": 97,    "repeat": "false",      "base_price": 15000,    "enhancement_bonus": 0},
+                    {"name": "Shadow, improved",                    "value_min": 98,    "value_max": 98,    "repeat": "false",      "base_price": 15000,    "enhancement_bonus": 0},
+                    {"name": "Silent moves, improved",              "value_min": 99,    "value_max": 99,    "repeat": "false",      "base_price": 15000,    "enhancement_bonus": 0},
+                    {"name": "Roll twice again",                    "value_min": 100,   "value_max": 100,   "repeat": "true",       "base_price": 0,        "enhancement_bonus": 0}
                 ]
             },
             {
                 "difficulty": "medium",
                 "category" :[
-                    {"name": "Glamered", "value_min": 1, "value_max": 5, "repeat": "false"},
-                    {"name": "Fortification, light", "value_min": 6, "value_max": 8, "repeat": "false"},
-                    {"name": "Slick", "value_min": 9, "value_max": 11, "repeat": "false"},
-                    {"name": "Shadow", "value_min": 12, "value_max": 14, "repeat": "false"},
-                    {"name": "Silent moves", "value_min": 15, "value_max": 17, "repeat": "false"},
-                    {"name": "Spell resistance (13)", "value_min": 18, "value_max": 19, "repeat": "false"},
-                    {"name": "Slick, improved", "value_min": 20, "value_max": 29, "repeat": "false"},
-                    {"name": "Shadow, improved", "value_min": 30, "value_max": 39, "repeat": "false"},
-                    {"name": "Silent moves, improved", "value_min": 40, "value_max": 49, "repeat": "false"},
-                    {"name": "Acid resistance", "value_min": 50, "value_max": 54, "repeat": "false"},
-                    {"name": "Cold resistance", "value_min": 55, "value_max": 59, "repeat": "false"},
-                    {"name": "Electricity resistance", "value_min": 60, "value_max": 64, "repeat": "false"},
-                    {"name": "Fire resistance", "value_min": 65, "value_max": 69, "repeat": "false"},
-                    {"name": "Sonic resistance", "value_min": 70, "value_max": 74, "repeat": "false"},
-                    {"name": "Ghost touch", "value_min": 75, "value_max": 79, "repeat": "false"},
-                    {"name": "Invulnerability", "value_min": 80, "value_max": 84, "repeat": "false"},
-                    {"name": "Fortification, moderate", "value_min": 85, "value_max": 89, "repeat": "false"},
-                    {"name": "Spell resistance (15)", "value_min": 90, "value_max": 94, "repeat": "false"},
-                    {"name": "Wild", "value_min": 94, "value_max": 99, "repeat": "false"},
-                    {"name": "Roll twice again", "value_min": 100, "value_max": 100, "repeat": "false"}
+                    {"name": "Glamered",                            "value_min": 1,     "value_max": 5,     "repeat": "false",      "base_price": 2700,     "enhancement_bonus": 0},
+                    {"name": "Fortification, light",                "value_min": 6,     "value_max": 8,     "repeat": "false",      "base_price": 0,        "enhancement_bonus": 1},
+                    {"name": "Slick",                               "value_min": 9,     "value_max": 11,    "repeat": "false",      "base_price": 3750,     "enhancement_bonus": 0},
+                    {"name": "Shadow",                              "value_min": 12,    "value_max": 14,    "repeat": "false",      "base_price": 3750,     "enhancement_bonus": 0},
+                    {"name": "Silent moves",                        "value_min": 15,    "value_max": 17,    "repeat": "false",      "base_price": 3750,     "enhancement_bonus": 0},
+                    {"name": "Spell resistance (13)",               "value_min": 18,    "value_max": 19,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 2},
+                    {"name": "Slick, improved",                     "value_min": 20,    "value_max": 29,    "repeat": "false",      "base_price": 15000,    "enhancement_bonus": 0},
+                    {"name": "Shadow, improved",                    "value_min": 30,    "value_max": 39,    "repeat": "false",      "base_price": 15000,    "enhancement_bonus": 0},
+                    {"name": "Silent moves, improved",              "value_min": 40,    "value_max": 49,    "repeat": "false",      "base_price": 15000,    "enhancement_bonus": 0},
+                    {"name": "Acid resistance",                     "value_min": 50,    "value_max": 54,    "repeat": "false",      "base_price": 18000,    "enhancement_bonus": 0},
+                    {"name": "Cold resistance",                     "value_min": 55,    "value_max": 59,    "repeat": "false",      "base_price": 18000,    "enhancement_bonus": 0},
+                    {"name": "Electricity resistance",              "value_min": 60,    "value_max": 64,    "repeat": "false",      "base_price": 18000,    "enhancement_bonus": 0},
+                    {"name": "Fire resistance",                     "value_min": 65,    "value_max": 69,    "repeat": "false",      "base_price": 18000,    "enhancement_bonus": 0},
+                    {"name": "Sonic resistance",                    "value_min": 70,    "value_max": 74,    "repeat": "false",      "base_price": 18000,    "enhancement_bonus": 0},
+                    {"name": "Ghost touch",                         "value_min": 75,    "value_max": 79,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 3},
+                    {"name": "Invulnerability",                     "value_min": 80,    "value_max": 84,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 3},
+                    {"name": "Fortification, moderate",             "value_min": 85,    "value_max": 89,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 3},
+                    {"name": "Spell resistance (15)",               "value_min": 90,    "value_max": 94,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 3},
+                    {"name": "Wild",                                "value_min": 94,    "value_max": 99,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 3},
+                    {"name": "Roll twice again",                    "value_min": 100,   "value_max": 100,   "repeat": "false",      "base_price": 0,        "enhancement_bonus": 0}
                 ]
             },
             {
                 "difficulty": "major",
                 "category" :[
-                    {"name": "Glamered", "value_min": 1, "value_max": 3, "repeat": "false"},
-                    {"name": "Fortification, light", "value_min": 4, "value_max": 4, "repeat": "false"},
-                    {"name": "Slick, improved", "value_min": 5, "value_max": 7, "repeat": "false"},
-                    {"name": "Shadow, improved", "value_min": 8, "value_max": 10, "repeat": "false"},
-                    {"name": "Silent moves, improved", "value_min": 11, "value_max": 13, "repeat": "false"},
-                    {"name": "Acid resistance", "value_min": 14, "value_max": 16, "repeat": "false"},
-                    {"name": "Cold resistance", "value_min": 17, "value_max": 19, "repeat": "false"},
-                    {"name": "Electricity resistance", "value_min": 20, "value_max": 22, "repeat": "false"},
-                    {"name": "Fire resistance", "value_min": 23, "value_max": 25, "repeat": "false"},
-                    {"name": "Sonic resistance", "value_min": 26, "value_max": 28, "repeat": "false"},
-                    {"name": "Ghost touch", "value_min": 29, "value_max": 33, "repeat": "false"},
-                    {"name": "Invulnerability", "value_min": 34, "value_max": 35, "repeat": "false"},
-                    {"name": "Fortification, moderate", "value_min": 36, "value_max": 40, "repeat": "false"},
-                    {"name": "Spell resistance (15)", "value_min": 41, "value_max": 42, "repeat": "false"},
-                    {"name": "Wild", "value_min": 43, "value_max": 43, "repeat": "false"},
-                    {"name": "Slick, greater", "value_min": 44, "value_max": 48, "repeat": "false"},
-                    {"name": "Shadow, greater", "value_min": 49, "value_max": 53, "repeat": "false"},
-                    {"name": "Silent moves, greater", "value_min": 54, "value_max": 58, "repeat": "false"},
-                    {"name": "Acid resistance, improved", "value_min": 59, "value_max": 63, "repeat": "false"},
-                    {"name": "Cold resistance, improved", "value_min": 64, "value_max": 68, "repeat": "false"},
-                    {"name": "Electricity resistance, improved", "value_min": 69, "value_max": 73, "repeat": "false"},
-                    {"name": "Fire resistance, improved", "value_min": 74, "value_max": 78, "repeat": "false"},
-                    {"name": "Sonic resistance, improved", "value_min": 79, "value_max": 83, "repeat": "false"},
-                    {"name": "Spell resistance (17)", "value_min": 84, "value_max": 88, "repeat": "false"},
-                    {"name": "Etherealness", "value_min": 89, "value_max": 89, "repeat": "false"},
-                    {"name": "Undead controlling", "value_min": 90, "value_max": 90, "repeat": "false"},
-                    {"name": "Fortification, heavy", "value_min": 91, "value_max": 92, "repeat": "false"},
-                    {"name": "Spell resistance (19)", "value_min": 93, "value_max": 94, "repeat": "false"},
-                    {"name": "Acid resistance, greater", "value_min": 95, "value_max": 95, "repeat": "false"},
-                    {"name": "Cold resistance, greater", "value_min": 96, "value_max": 96, "repeat": "false"},
-                    {"name": "Electricity resistance, greater", "value_min": 97, "value_max": 97, "repeat": "false"},
-                    {"name": "Fire resistance, greater", "value_min": 98, "value_max": 98, "repeat": "false"},
-                    {"name": "Sonic resistance, greater", "value_min": 99, "value_max": 99, "repeat": "false"},
-                    {"name": "Roll twice again", "value_min": 100, "value_max": 100, "repeat": "false"}
+                    {"name": "Glamered",                            "value_min": 1,     "value_max": 3,     "repeat": "false",      "base_price": 2700,     "enhancement_bonus": 0},
+                    {"name": "Fortification, light",                "value_min": 4,     "value_max": 4,     "repeat": "false",      "base_price": 0,        "enhancement_bonus": 1},
+                    {"name": "Slick, improved",                     "value_min": 5,     "value_max": 7,     "repeat": "false",      "base_price": 15000,    "enhancement_bonus": 0},
+                    {"name": "Shadow, improved",                    "value_min": 8,     "value_max": 10,    "repeat": "false",      "base_price": 15000,    "enhancement_bonus": 0},
+                    {"name": "Silent moves, improved",              "value_min": 11,    "value_max": 13,    "repeat": "false",      "base_price": 15000,    "enhancement_bonus": 0},
+                    {"name": "Acid resistance",                     "value_min": 14,    "value_max": 16,    "repeat": "false",      "base_price": 18000,    "enhancement_bonus": 0},
+                    {"name": "Cold resistance",                     "value_min": 17,    "value_max": 19,    "repeat": "false",      "base_price": 18000,    "enhancement_bonus": 0},
+                    {"name": "Electricity resistance",              "value_min": 20,    "value_max": 22,    "repeat": "false",      "base_price": 18000,    "enhancement_bonus": 0},
+                    {"name": "Fire resistance",                     "value_min": 23,    "value_max": 25,    "repeat": "false",      "base_price": 18000,    "enhancement_bonus": 0},
+                    {"name": "Sonic resistance",                    "value_min": 26,    "value_max": 28,    "repeat": "false",      "base_price": 18000,    "enhancement_bonus": 0},
+                    {"name": "Ghost touch",                         "value_min": 29,    "value_max": 33,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 3},
+                    {"name": "Invulnerability",                     "value_min": 34,    "value_max": 35,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 3},
+                    {"name": "Fortification, moderate",             "value_min": 36,    "value_max": 40,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 3},
+                    {"name": "Spell resistance (15)",               "value_min": 41,    "value_max": 42,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 3},
+                    {"name": "Wild",                                "value_min": 43,    "value_max": 43,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 3},
+                    {"name": "Slick, greater",                      "value_min": 44,    "value_max": 48,    "repeat": "false",      "base_price": 33750,    "enhancement_bonus": 0},
+                    {"name": "Shadow, greater",                     "value_min": 49,    "value_max": 53,    "repeat": "false",      "base_price": 33750,    "enhancement_bonus": 0},
+                    {"name": "Silent moves, greater",               "value_min": 54,    "value_max": 58,    "repeat": "false",      "base_price": 33750,    "enhancement_bonus": 0},
+                    {"name": "Acid resistance, improved",           "value_min": 59,    "value_max": 63,    "repeat": "false",      "base_price": 42000,    "enhancement_bonus": 0},
+                    {"name": "Cold resistance, improved",           "value_min": 64,    "value_max": 68,    "repeat": "false",      "base_price": 42000,    "enhancement_bonus": 0},
+                    {"name": "Electricity resistance, improved",    "value_min": 69,    "value_max": 73,    "repeat": "false",      "base_price": 42000,    "enhancement_bonus": 0},
+                    {"name": "Fire resistance, improved",           "value_min": 74,    "value_max": 78,    "repeat": "false",      "base_price": 42000,    "enhancement_bonus": 0},
+                    {"name": "Sonic resistance, improved",          "value_min": 79,    "value_max": 83,    "repeat": "false",      "base_price": 42000,    "enhancement_bonus": 0},
+                    {"name": "Spell resistance (17)",               "value_min": 84,    "value_max": 88,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 4},
+                    {"name": "Etherealness",                        "value_min": 89,    "value_max": 89,    "repeat": "false",      "base_price": 49000,    "enhancement_bonus": 0},
+                    {"name": "Undead controlling",                  "value_min": 90,    "value_max": 90,    "repeat": "false",      "base_price": 49000,    "enhancement_bonus": 0},
+                    {"name": "Fortification, heavy",                "value_min": 91,    "value_max": 92,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 5},
+                    {"name": "Spell resistance (19)",               "value_min": 93,    "value_max": 94,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 5},
+                    {"name": "Acid resistance, greater",            "value_min": 95,    "value_max": 95,    "repeat": "false",      "base_price": 66000,    "enhancement_bonus": 0},
+                    {"name": "Cold resistance, greater",            "value_min": 96,    "value_max": 96,    "repeat": "false",      "base_price": 66000,    "enhancement_bonus": 0},
+                    {"name": "Electricity resistance, greater",     "value_min": 97,    "value_max": 97,    "repeat": "false",      "base_price": 66000,    "enhancement_bonus": 0},
+                    {"name": "Fire resistance, greater",            "value_min": 98,    "value_max": 98,    "repeat": "false",      "base_price": 66000,    "enhancement_bonus": 0},
+                    {"name": "Sonic resistance, greater",           "value_min": 99,    "value_max": 99,    "repeat": "false",      "base_price": 66000,    "enhancement_bonus": 0},
+                    {"name": "Roll twice again",                    "value_min": 100,   "value_max": 100,   "repeat": "false",      "base_price": 0,        "enhancement_bonus": 0}
                 ]
             }
         ],
@@ -204,72 +214,72 @@
             {
                 "difficulty": "minor",
                 "category" :[
-                    {"name": "Arrow catching", "value_min": 1, "value_max": 20, "repeat": "false"},
-                    {"name": "Bashing", "value_min": 21, "value_max": 40, "repeat": "false"},
-                    {"name": "Blinding", "value_min": 41, "value_max": 50, "repeat": "false"},
-                    {"name": "Fortification, light", "value_min": 51, "value_max": 75, "repeat": "false"},
-                    {"name": "Arrow deflection", "value_min": 76, "value_max": 92, "repeat": "false"},
-                    {"name": "Animated", "value_min": 93, "value_max": 97, "repeat": "false"},
-                    {"name": "Spell resistance (13)", "value_min": 98, "value_max": 99, "repeat": "false"},
-                    {"name": "Roll twice again", "value_min": 100, "value_max": 100, "repeat": "true"}
+                    {"name": "Arrow catching",                      "value_min": 1,     "value_max": 20,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 1},
+                    {"name": "Bashing",                             "value_min": 21,    "value_max": 40,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 1},
+                    {"name": "Blinding",                            "value_min": 41,    "value_max": 50,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 1},
+                    {"name": "Fortification, light",                "value_min": 51,    "value_max": 75,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 1},
+                    {"name": "Arrow deflection",                    "value_min": 76,    "value_max": 92,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 2},
+                    {"name": "Animated",                            "value_min": 93,    "value_max": 97,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 2},
+                    {"name": "Spell resistance (13)",               "value_min": 98,    "value_max": 99,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 2},
+                    {"name": "Roll twice again",                    "value_min": 100,   "value_max": 100,   "repeat": "true",       "base_price": 0,        "enhancement_bonus": 0}
                 ]
             },
             {
                 "difficulty": "medium",
                 "category" :[
-                    {"name": "Arrow catching", "value_min": 1, "value_max": 10, "repeat": "false"},
-                    {"name": "Bashing", "value_min": 11, "value_max": 20, "repeat": "false"},
-                    {"name": "Blinding", "value_min": 21, "value_max": 25, "repeat": "false"},
-                    {"name": "Fortification, light", "value_min": 26, "value_max": 40, "repeat": "false"},
-                    {"name": "Arrow deflection", "value_min": 41, "value_max": 50, "repeat": "false"},
-                    {"name": "Animated", "value_min": 51, "value_max": 57, "repeat": "false"},
-                    {"name": "Spell resistance (13)", "value_min": 58, "value_max": 59, "repeat": "false"},
-                    {"name": "Acid resistance", "value_min": 60, "value_max": 63, "repeat": "false"},
-                    {"name": "Cold resistance", "value_min": 64, "value_max": 67, "repeat": "false"},
-                    {"name": "Electricity resistance", "value_min": 68, "value_max": 71, "repeat": "false"},
-                    {"name": "Fire resistance", "value_min": 72, "value_max": 75, "repeat": "false"},
-                    {"name": "Sonic resistance", "value_min": 76, "value_max": 79, "repeat": "false"},
-                    {"name": "Ghost touch", "value_min": 80, "value_max": 85, "repeat": "false"},
-                    {"name": "Fortification, moderate", "value_min": 86, "value_max": 95, "repeat": "false"},
-                    {"name": "Spell resistance (15)", "value_min": 96, "value_max": 98, "repeat": "false"},
-                    {"name": "Wild", "value_min": 99, "value_max": 99, "repeat": "false"},
-                    {"name": "Roll twice again", "value_min": 100, "value_max": 100, "repeat": "true"}
+                    {"name": "Arrow catching",                      "value_min": 1,     "value_max": 10,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 1},
+                    {"name": "Bashing",                             "value_min": 11,    "value_max": 20,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 1},
+                    {"name": "Blinding",                            "value_min": 21,    "value_max": 25,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 1},
+                    {"name": "Fortification, light",                "value_min": 26,    "value_max": 40,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 1},
+                    {"name": "Arrow deflection",                    "value_min": 41,    "value_max": 50,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 2},
+                    {"name": "Animated",                            "value_min": 51,    "value_max": 57,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 2},
+                    {"name": "Spell resistance (13)",               "value_min": 58,    "value_max": 59,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 2},
+                    {"name": "Acid resistance",                     "value_min": 60,    "value_max": 63,    "repeat": "false",      "base_price": 18000,    "enhancement_bonus": 0},
+                    {"name": "Cold resistance",                     "value_min": 64,    "value_max": 67,    "repeat": "false",      "base_price": 18000,    "enhancement_bonus": 0},
+                    {"name": "Electricity resistance",              "value_min": 68,    "value_max": 71,    "repeat": "false",      "base_price": 18000,    "enhancement_bonus": 0},
+                    {"name": "Fire resistance",                     "value_min": 72,    "value_max": 75,    "repeat": "false",      "base_price": 18000,    "enhancement_bonus": 0},
+                    {"name": "Sonic resistance",                    "value_min": 76,    "value_max": 79,    "repeat": "false",      "base_price": 18000,    "enhancement_bonus": 0},
+                    {"name": "Ghost touch",                         "value_min": 80,    "value_max": 85,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 3},
+                    {"name": "Fortification, moderate",             "value_min": 86,    "value_max": 95,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 3},
+                    {"name": "Spell resistance (15)",               "value_min": 96,    "value_max": 98,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 3},
+                    {"name": "Wild",                                "value_min": 99,    "value_max": 99,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 3},
+                    {"name": "Roll twice again",                    "value_min": 100,   "value_max": 100,   "repeat": "true",       "base_price": 0,        "enhancement_bonus": 0}
                 ]
             },
             {
                 "difficulty": "major",
                 "category" :[
-                    {"name": "Arrow catching", "value_min": 1, "value_max": 5, "repeat": "false"},
-                    {"name": "Bashing", "value_min": 6, "value_max": 8, "repeat": "false"},
-                    {"name": "Blinding", "value_min": 9, "value_max": 10, "repeat": "false"},
-                    {"name": "Fortification, light", "value_min": 11, "value_max": 15, "repeat": "false"},
-                    {"name": "Arrow deflection", "value_min": 16, "value_max": 20, "repeat": "false"},
-                    {"name": "Animated", "value_min": 21, "value_max": 25, "repeat": "false"},
-                    {"name": "Acid resistance", "value_min": 26, "value_max": 28, "repeat": "false"},
-                    {"name": "Cold resistance", "value_min": 29, "value_max": 31, "repeat": "false"},
-                    {"name": "Electricity resistance", "value_min": 32, "value_max": 34, "repeat": "false"},
-                    {"name": "Fire resistance", "value_min": 35, "value_max": 37, "repeat": "false"},
-                    {"name": "Sonic resistance", "value_min": 38, "value_max": 40, "repeat": "false"},
-                    {"name": "Ghost touch", "value_min": 41, "value_max": 46, "repeat": "false"},
-                    {"name": "Fortification, moderate", "value_min": 47, "value_max": 56, "repeat": "false"},
-                    {"name": "Spell resistance (15)", "value_min": 57, "value_max": 58, "repeat": "false"},
-                    {"name": "Wild", "value_min": 59, "value_max": 59, "repeat": "false"},
-                    {"name": "Acid resistance, improved", "value_min": 60, "value_max": 64, "repeat": "false"},
-                    {"name": "Cold resistance, improved", "value_min": 65, "value_max": 69, "repeat": "false"},
-                    {"name": "Electricity resistance, improved", "value_min": 70, "value_max": 74, "repeat": "false"},
-                    {"name": "Fire resistance, improved", "value_min": 75, "value_max": 79, "repeat": "false"},
-                    {"name": "Sonic resistance, improved", "value_min": 80, "value_max": 84, "repeat": "false"},
-                    {"name": "Spell resistance (17)", "value_min": 85, "value_max": 86, "repeat": "false"},
-                    {"name": "Undead controlling", "value_min": 87, "value_max": 87, "repeat": "false"},
-                    {"name": "Fortification, heavy", "value_min": 88, "value_max": 91, "repeat": "false"},
-                    {"name": "Reflecting", "value_min": 92, "value_max": 93, "repeat": "false"},
-                    {"name": "Spell resistance (19)", "value_min": 94, "value_max": 94, "repeat": "false"},
-                    {"name": "Acid resistance, greater", "value_min": 95, "value_max": 95, "repeat": "false"},
-                    {"name": "Cold resistance, greater", "value_min": 96, "value_max": 96, "repeat": "false"},
-                    {"name": "Electricity resistance, greater", "value_min": 97, "value_max": 97, "repeat": "false"},
-                    {"name": "Fire resistance, greater", "value_min": 98, "value_max": 98, "repeat": "false"},
-                    {"name": "Sonic resistance, greater", "value_min": 99, "value_max": 99, "repeat": "false"},
-                    {"name": "Roll twice again", "value_min": 100, "value_max": 100, "repeat": "true"}
+                    {"name": "Arrow catching",                      "value_min": 1,     "value_max": 5,     "repeat": "false",      "base_price": 0,        "enhancement_bonus": 1},
+                    {"name": "Bashing",                             "value_min": 6,     "value_max": 8,     "repeat": "false",      "base_price": 0,        "enhancement_bonus": 1},
+                    {"name": "Blinding",                            "value_min": 9,     "value_max": 10,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 1},
+                    {"name": "Fortification, light",                "value_min": 11,    "value_max": 15,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 1},
+                    {"name": "Arrow deflection",                    "value_min": 16,    "value_max": 20,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 2},
+                    {"name": "Animated",                            "value_min": 21,    "value_max": 25,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 2},
+                    {"name": "Acid resistance",                     "value_min": 26,    "value_max": 28,    "repeat": "false",      "base_price": 18000,    "enhancement_bonus": 0},
+                    {"name": "Cold resistance",                     "value_min": 29,    "value_max": 31,    "repeat": "false",      "base_price": 18000,    "enhancement_bonus": 0},
+                    {"name": "Electricity resistance",              "value_min": 32,    "value_max": 34,    "repeat": "false",      "base_price": 18000,    "enhancement_bonus": 0},
+                    {"name": "Fire resistance",                     "value_min": 35,    "value_max": 37,    "repeat": "false",      "base_price": 18000,    "enhancement_bonus": 0},
+                    {"name": "Sonic resistance",                    "value_min": 38,    "value_max": 40,    "repeat": "false",      "base_price": 18000,    "enhancement_bonus": 0},
+                    {"name": "Ghost touch",                         "value_min": 41,    "value_max": 46,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 3},
+                    {"name": "Fortification, moderate",             "value_min": 47,    "value_max": 56,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 3},
+                    {"name": "Spell resistance (15)",               "value_min": 57,    "value_max": 58,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 3},
+                    {"name": "Wild",                                "value_min": 59,    "value_max": 59,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 3},
+                    {"name": "Acid resistance, improved",           "value_min": 60,    "value_max": 64,    "repeat": "false",      "base_price": 42000,    "enhancement_bonus": 0},
+                    {"name": "Cold resistance, improved",           "value_min": 65,    "value_max": 69,    "repeat": "false",      "base_price": 42000,    "enhancement_bonus": 0},
+                    {"name": "Electricity resistance, improved",    "value_min": 70,    "value_max": 74,    "repeat": "false",      "base_price": 42000,    "enhancement_bonus": 0},
+                    {"name": "Fire resistance, improved",           "value_min": 75,    "value_max": 79,    "repeat": "false",      "base_price": 42000,    "enhancement_bonus": 0},
+                    {"name": "Sonic resistance, improved",          "value_min": 80,    "value_max": 84,    "repeat": "false",      "base_price": 42000,    "enhancement_bonus": 0},
+                    {"name": "Spell resistance (17)",               "value_min": 85,    "value_max": 86,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 4},
+                    {"name": "Undead controlling",                  "value_min": 87,    "value_max": 87,    "repeat": "false",      "base_price": 49000,    "enhancement_bonus": 0},
+                    {"name": "Fortification, heavy",                "value_min": 88,    "value_max": 91,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 5},
+                    {"name": "Reflecting",                          "value_min": 92,    "value_max": 93,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 5},
+                    {"name": "Spell resistance (19)",               "value_min": 94,    "value_max": 94,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 5},
+                    {"name": "Acid resistance, greater",            "value_min": 95,    "value_max": 95,    "repeat": "false",      "base_price": 66000,    "enhancement_bonus": 0},
+                    {"name": "Cold resistance, greater",            "value_min": 96,    "value_max": 96,    "repeat": "false",      "base_price": 66000,    "enhancement_bonus": 0},
+                    {"name": "Electricity resistance, greater",     "value_min": 97,    "value_max": 97,    "repeat": "false",      "base_price": 66000,    "enhancement_bonus": 0},
+                    {"name": "Fire resistance, greater",            "value_min": 98,    "value_max": 98,    "repeat": "false",      "base_price": 66000,    "enhancement_bonus": 0},
+                    {"name": "Sonic resistance, greater",           "value_min": 99,    "value_max": 99,    "repeat": "false",      "base_price": 66000,    "enhancement_bonus": 0},
+                    {"name": "Roll twice again",                    "value_min": 100,   "value_max": 100,   "repeat": "true",       "base_price": 0,        "enhancement_bonus": 0}
                 ]
             }
         ],
@@ -277,34 +287,34 @@
             {
                 "difficulty": "minor",
                 "category":[
-                    {"name": "Mithral shirt", "value_min": 1, "value_max": 50, "repeat": "false"},
-                    {"name": "Dragonhide plate", "value_min": 51, "value_max": 81, "repeat": "false"},
-                    {"name": "Elven chain", "value_min": 81, "value_max": 100, "repeat": "false"}
+                    {"name": "Mithral shirt",                       "value_min": 1,     "value_max": 50,    "repeat": "false",      "base_price": 1100},
+                    {"name": "Dragonhide plate",                    "value_min": 51,    "value_max": 81,    "repeat": "false",      "base_price": 3300},
+                    {"name": "Elven chain",                         "value_min": 81,    "value_max": 100,   "repeat": "false",      "base_price": 4150}
                 ]
             },
             {
                 "difficulty": "medium",
                 "category":[
-                    {"name": "Mithral shirt", "value_min": 1, "value_max": 25, "repeat": "false"},
-                    {"name": "Dragonhide plate", "value_min": 26, "value_max": 45, "repeat": "false"},
-                    {"name": "Elven chain", "value_min": 46, "value_max": 57, "repeat": "false"},
-                    {"name": "Rhino hide", "value_min": 58, "value_max": 67, "repeat": "false"},
-                    {"name": "Adamantine breastplate", "value_min": 68, "value_max": 82, "repeat": "false"},
-                    {"name": "Dwarven plate", "value_min": 83, "value_max": 97, "repeat": "false"},
-                    {"name": "Banded mail of luck", "value_min": 98, "value_max": 100, "repeat": "false"}
+                    {"name": "Mithral shirt",                       "value_min": 1,     "value_max": 25,    "repeat": "false",      "base_price": 1100},
+                    {"name": "Dragonhide plate",                    "value_min": 26,    "value_max": 45,    "repeat": "false",      "base_price": 3300},
+                    {"name": "Elven chain",                         "value_min": 46,    "value_max": 57,    "repeat": "false",      "base_price": 4150},
+                    {"name": "Rhino hide",                          "value_min": 58,    "value_max": 67,    "repeat": "false",      "base_price": 5165},
+                    {"name": "Adamantine breastplate",              "value_min": 68,    "value_max": 82,    "repeat": "false",      "base_price": 10200},
+                    {"name": "Dwarven plate",                       "value_min": 83,    "value_max": 97,    "repeat": "false",      "base_price": 16500},
+                    {"name": "Banded mail of luck",                 "value_min": 98,    "value_max": 100,   "repeat": "false",      "base_price": 18900}
                 ]
             },
             {
                 "difficulty": "major",
                 "category":[
-                    {"name": "Adamantine breastplate", "value_min": 1, "value_max": 10, "repeat": "false"},
-                    {"name": "Dwarven plate", "value_min": 11, "value_max": 20, "repeat": "false"},
-                    {"name": "Banded mail of luck", "value_min": 21, "value_max": 32, "repeat": "false"},
-                    {"name": "Celestial armor", "value_min": 33, "value_max": 50, "repeat": "false"},
-                    {"name": "Plate armor of the deep", "value_min": 51, "value_max": 60, "repeat": "false"},
-                    {"name": "Breastplate of command", "value_min": 61, "value_max": 75, "repeat": "false"},
-                    {"name": "Mithral full plate of speed", "value_min": 76, "value_max": 90, "repeat": "false"},
-                    {"name": "Demon armor", "value_min": 91, "value_max": 100, "repeat": "false"}
+                    {"name": "Adamantine breastplate",              "value_min": 1,     "value_max": 10,    "repeat": "false",      "base_price": 10200},
+                    {"name": "Dwarven plate",                       "value_min": 11,    "value_max": 20,    "repeat": "false",      "base_price": 16500},
+                    {"name": "Banded mail of luck",                 "value_min": 21,    "value_max": 32,    "repeat": "false",      "base_price": 18900},
+                    {"name": "Celestial armor",                     "value_min": 33,    "value_max": 50,    "repeat": "false",      "base_price": 22400},
+                    {"name": "Plate armor of the deep",             "value_min": 51,    "value_max": 60,    "repeat": "false",      "base_price": 24650},
+                    {"name": "Breastplate of command",              "value_min": 61,    "value_max": 75,    "repeat": "false",      "base_price": 25400},
+                    {"name": "Mithral full plate of speed",         "value_min": 76,    "value_max": 90,    "repeat": "false",      "base_price": 26500},
+                    {"name": "Demon armor",                         "value_min": 91,    "value_max": 100,   "repeat": "false",      "base_price": 52260}
                 ]
             }
         ],
@@ -312,64 +322,64 @@
             {
                 "difficulty": "minor",
                 "category":[
-                    {"name": "Darkwood buckler", "value_min": 1, "value_max": 30, "repeat": "false"},
-                    {"name": "Darkwood shield", "value_min": 31, "value_max": 80, "repeat": "false"},
-                    {"name": "Mithral heavy shield", "value_min": 81, "value_max": 95, "repeat": "false"},
-                    {"name": "Caster’s shield", "value_min": 96, "value_max": 100, "repeat": "false"}
+                    {"name": "Darkwood buckler",                    "value_min": 1,     "value_max": 30,    "repeat": "false",      "base_price": 205},
+                    {"name": "Darkwood shield",                     "value_min": 31,    "value_max": 80,    "repeat": "false",      "base_price": 257},
+                    {"name": "Mithral heavy shield",                "value_min": 81,    "value_max": 95,    "repeat": "false",      "base_price": 1020},
+                    {"name": "Caster’s shield",                     "value_min": 96,    "value_max": 100,   "repeat": "false",      "base_price": 3153}
                 ]
             },
             {
                 "difficulty": "medium",
                 "category":[
-                    {"name": "Darkwood buckler", "value_min": 1, "value_max": 20, "repeat": "false"},
-                    {"name": "Darkwood shield", "value_min": 21, "value_max": 45, "repeat": "false"},
-                    {"name": "Mithral heavy shield", "value_min": 46, "value_max": 70, "repeat": "false"},
-                    {"name": "Caster’s shield", "value_min": 71, "value_max": 85, "repeat": "false"},
-                    {"name": "Spined shield", "value_min": 86, "value_max": 90, "repeat": "false"},
-                    {"name": "Lion’s shield", "value_min": 91, "value_max": 95, "repeat": "false"},
-                    {"name": "Winged shield", "value_min": 96, "value_max": 100, "repeat": "false"}
+                    {"name": "Darkwood buckler",                    "value_min": 1,     "value_max": 20,    "repeat": "false",      "base_price": 205},
+                    {"name": "Darkwood shield",                     "value_min": 21,    "value_max": 45,    "repeat": "false",      "base_price": 257},
+                    {"name": "Mithral heavy shield",                "value_min": 46,    "value_max": 70,    "repeat": "false",      "base_price": 1020},
+                    {"name": "Caster’s shield",                     "value_min": 71,    "value_max": 85,    "repeat": "false",      "base_price": 3153},
+                    {"name": "Spined shield",                       "value_min": 86,    "value_max": 90,    "repeat": "false",      "base_price": 5580},
+                    {"name": "Lion’s shield",                       "value_min": 91,    "value_max": 95,    "repeat": "false",      "base_price": 9170},
+                    {"name": "Winged shield",                       "value_min": 96,    "value_max": 100,   "repeat": "false",      "base_price": 17257}
                 ]
             },
             {
                 "difficulty": "major",
                 "category":[
-                    {"name": "Caster’s shield", "value_min": 1, "value_max": 20, "repeat": "false"},
-                    {"name": "Spined shield", "value_min": 21, "value_max": 40, "repeat": "false"},
-                    {"name": "Lion’s shield", "value_min": 41, "value_max": 60, "repeat": "false"},
-                    {"name": "Winged shield", "value_min": 61, "value_max": 90, "repeat": "false"},
-                    {"name": "Absorbing shield", "value_min": 91, "value_max": 100, "repeat": "false"}
+                    {"name": "Caster’s shield",                     "value_min": 1,     "value_max": 20,    "repeat": "false",      "base_price": 3153},
+                    {"name": "Spined shield",                       "value_min": 21,    "value_max": 40,    "repeat": "false",      "base_price": 5580},
+                    {"name": "Lion’s shield",                       "value_min": 41,    "value_max": 60,    "repeat": "false",      "base_price": 9170},
+                    {"name": "Winged shield",                       "value_min": 61,    "value_max": 90,    "repeat": "false",      "base_price": 17257},
+                    {"name": "Absorbing shield",                    "value_min": 91,    "value_max": 100,   "repeat": "false",      "base_price": 50170}
                 ]
             }
         ],
-        "Weappons":[
+        "Weapons":[
             {
                 "difficulty": "minor",
                 "category" :[
-                    {"name": "+1", "value_min": 1, "value_max": 70, "repeat": "false"},
-                    {"name": "+2", "value_min": 71, "value_max": 85, "repeat": "false"},
-                    {"name": "Specific weapon", "value_min": 86, "value_max": 90, "repeat": "false"},
-                    {"name": "Special ability and roll again", "value_min": 91, "value_max": 100, "repeat": "true"}
+                    {"name": "+1",                                  "value_min": 1,     "value_max": 70,    "repeat": "false",      "base_price": 2000 ,    "enhancement_bonus": 1},
+                    {"name": "+2",                                  "value_min": 71,    "value_max": 85,    "repeat": "false",      "base_price": 8000 ,    "enhancement_bonus": 2},
+                    {"name": "Specific weapon",                     "value_min": 86,    "value_max": 90,    "repeat": "false",      "base_price": 0 ,       "enhancement_bonus": 0},
+                    {"name": "Special ability and roll again",      "value_min": 91,    "value_max": 100,   "repeat": "true",       "base_price": 0 ,       "enhancement_bonus": 0}
                 ]
             },
             {
                 "difficulty": "medium",
                 "category" :[
-                    {"name": "+1", "value_min": 1, "value_max": 10, "repeat": "false"},
-                    {"name": "+2", "value_min": 11, "value_max": 29, "repeat": "false"},
-                    {"name": "+3", "value_min": 30, "value_max": 58, "repeat": "false"},
-                    {"name": "+4", "value_min": 59, "value_max": 62, "repeat": "false"},
-                    {"name": "Specific weapon", "value_min": 63, "value_max": 68, "repeat": "false"},
-                    {"name": "Special ability and roll again", "value_min": 69, "value_max": 100, "repeat": "true"}
+                    {"name": "+1",                                  "value_min": 1,     "value_max": 10,    "repeat": "false",      "base_price": 2000 ,    "enhancement_bonus": 1},
+                    {"name": "+2",                                  "value_min": 11,    "value_max": 29,    "repeat": "false",      "base_price": 8000 ,    "enhancement_bonus": 2},
+                    {"name": "+3",                                  "value_min": 30,    "value_max": 58,    "repeat": "false",      "base_price": 18000 ,   "enhancement_bonus": 3},
+                    {"name": "+4",                                  "value_min": 59,    "value_max": 62,    "repeat": "false",      "base_price": 32000 ,   "enhancement_bonus": 4},
+                    {"name": "Specific weapon",                     "value_min": 63,    "value_max": 68,    "repeat": "false",      "base_price": 0 ,       "enhancement_bonus": 0},
+                    {"name": "Special ability and roll again",      "value_min": 69,    "value_max": 100,   "repeat": "true",       "base_price": 0 ,       "enhancement_bonus": 0}
                 ]
             },
             {
                 "difficulty": "major",
                 "category" :[
-                    {"name": "+3", "value_min": 1, "value_max": 20, "repeat": "false"},
-                    {"name": "+4", "value_min": 21, "value_max": 35, "repeat": "false"},
-                    {"name": "+5", "value_min": 39, "value_max": 49, "repeat": "false"},
-                    {"name": "Specific weapon", "value_min": 50, "value_max": 63, "repeat": "false"},
-                    {"name": "Special ability and roll again", "value_min": 64, "value_max": 100, "repeat": "true"}
+                    {"name": "+3",                                  "value_min": 1,     "value_max": 20,    "repeat": "false",      "base_price": 18000 ,   "enhancement_bonus": 3},
+                    {"name": "+4",                                  "value_min": 21,    "value_max": 35,    "repeat": "false",      "base_price": 32000 ,   "enhancement_bonus": 4},
+                    {"name": "+5",                                  "value_min": 39,    "value_max": 49,    "repeat": "false",      "base_price": 50000 ,   "enhancement_bonus": 5},
+                    {"name": "Specific weapon",                     "value_min": 50,    "value_max": 63,    "repeat": "false",      "base_price": 0 ,       "enhancement_bonus": 0},
+                    {"name": "Special ability and roll again",      "value_min": 64,    "value_max": 100,   "repeat": "true",       "base_price": 0 ,       "enhancement_bonus": 0}
                 ]
             }
         ],
@@ -377,9 +387,9 @@
             {
                 "difficulty": "every",
                 "category" :[
-                    {"name": "Common melee weapon", "value_min": 1, "value_max": 70, "repeat": "false"},
-                    {"name": "Uncommon weapon", "value_min": 71, "value_max": 80, "repeat": "false"},
-                    {"name": "Common ranged weapon", "value_min": 81, "value_max": 100, "repeat": "false"}
+                    {"name": "Common melee weapon",                 "value_min": 1,     "value_max": 70,    "repeat": "false"},
+                    {"name": "Uncommon weapon",                     "value_min": 71,    "value_max": 80,    "repeat": "false"},
+                    {"name": "Common ranged weapon",                "value_min": 81,    "value_max": 100,   "repeat": "false"}
                 ]
             }
         ],
@@ -387,37 +397,91 @@
             {
                 "difficulty": "every",
                 "category" :[
-                    {"name": "Dagger", "value_min": 1, "value_max": 4, "repeat": "false"},
-                    {"name": "Greataxe", "value_min": 5, "value_max": 14, "repeat": "false"},
-                    {"name": "Greatsword", "value_min": 15, "value_max": 24, "repeat": "false"},
-                    {"name": "Kama", "value_min": 25, "value_max": 28, "repeat": "false"},
-                    {"name": "Longsword", "value_min": 29, "value_max": 41, "repeat": "false"},
-                    {"name": "Mace, light", "value_min": 42, "value_max": 45, "repeat": "false"},
-                    {"name": "Mace, heavy", "value_min": 46, "value_max": 50, "repeat": "false"},
-                    {"name": "Nunchaku", "value_min": 51, "value_max": 54, "repeat": "false"},
-                    {"name": "Quarterstaff", "value_min": 55, "value_max": 57, "repeat": "false"},
-                    {"name": "Rapier", "value_min": 58, "value_max": 61, "repeat": "false"},
-                    {"name": "Scimitar", "value_min": 62, "value_max": 66, "repeat": "false"},
-                    {"name": "Shortspear", "value_min": 67, "value_max": 70, "repeat": "false"},
-                    {"name": "Siangham", "value_min": 71, "value_max": 74, "repeat": "false"},
-                    {"name": "Sword, bastard", "value_min": 75, "value_max": 84, "repeat": "false"},
-                    {"name": "Sword, short", "value_min": 85, "value_max": 89, "repeat": "false"},
-                    {"name": "Waraxe, dwarven", "value_min": 90, "value_max": 100, "repeat": "false"}
+                    {"name": "Dagger",                              "value_min": 1,     "value_max": 4,     "repeat": "false",      "base_price": 302,                              "dmg_type": "slash*"},
+                    {"name": "Greataxe",                            "value_min": 5,     "value_max": 14,    "repeat": "false",      "base_price": 320,                              "dmg_type": "slash"},
+                    {"name": "Greatsword",                          "value_min": 15,    "value_max": 24,    "repeat": "false",      "base_price": 350,                              "dmg_type": "pierce"},
+                    {"name": "Kama",                                "value_min": 25,    "value_max": 28,    "repeat": "false",      "base_price": 302,                              "dmg_type": "slash"},
+                    {"name": "Longsword",                           "value_min": 29,    "value_max": 41,    "repeat": "false",      "base_price": 315,                              "dmg_type": "slash"},
+                    {"name": "Mace, light",                         "value_min": 42,    "value_max": 45,    "repeat": "false",      "base_price": 305,                              "dmg_type": "blunt"},
+                    {"name": "Mace, heavy",                         "value_min": 46,    "value_max": 50,    "repeat": "false",      "base_price": 312,                              "dmg_type": "blunt"},
+                    {"name": "Nunchaku",                            "value_min": 51,    "value_max": 54,    "repeat": "false",      "base_price": 302,                              "dmg_type": "blunt"},
+                    {"name": "Quarterstaff",                        "value_min": 55,    "value_max": 57,    "repeat": "false",      "base_price": 600,                              "dmg_type": "blunt"},
+                    {"name": "Rapier",                              "value_min": 58,    "value_max": 61,    "repeat": "false",      "base_price": 320,                              "dmg_type": "pierce"},
+                    {"name": "Scimitar",                            "value_min": 62,    "value_max": 66,    "repeat": "false",      "base_price": 315,                              "dmg_type": "slash"},
+                    {"name": "Shortspear",                          "value_min": 67,    "value_max": 70,    "repeat": "false",      "base_price": 302,                              "dmg_type": "pierce"},
+                    {"name": "Siangham",                            "value_min": 71,    "value_max": 74,    "repeat": "false",      "base_price": 303,                              "dmg_type": "pierce"},
+                    {"name": "Sword, bastard",                      "value_min": 75,    "value_max": 84,    "repeat": "false",      "base_price": 335,                              "dmg_type": "slash"},
+                    {"name": "Sword, short",                        "value_min": 85,    "value_max": 89,    "repeat": "false",      "base_price": 310,                              "dmg_type": "slash"},
+                    {"name": "Waraxe, dwarven",                     "value_min": 90,    "value_max": 100,   "repeat": "false",      "base_price": 330,                              "dmg_type": "slash"}
                 ]
             }
         ],
         "Uncommon Weapons":[
             {
-                "difficulty": "minor",
+                "difficulty": "every",
                 "category" :[
-
+                    {"name": "Axe, orc double",                     "value_min": 1,     "value_max": 3,     "repeat": "false",      "base_price": 660,                              "dmg_type": "slash" },
+                    {"name": "Battleaxe",                           "value_min": 4,     "value_max": 7,     "repeat": "false",      "base_price": 310,                              "dmg_type": "slash" },
+                    {"name": "Chain, spiked",                       "value_min": 8,    "value_max": 10,     "repeat": "false",      "base_price": 325,                              "dmg_type": "pierce" },
+                    {"name": "Club",                                "value_min": 11,    "value_max": 12,    "repeat": "false",      "base_price": 300,                              "dmg_type": "blunt" },
+                    {"name": "Crossbow, hand",                      "value_min": 13,    "value_max": 16,    "repeat": "false",      "base_price": 400,                              "dmg_type": "pierce" },
+                    {"name": "Crossbow, repeating",                 "value_min": 17,    "value_max": 19,    "repeat": "false",      "base_price": 550,                              "dmg_type": "pierce" },
+                    {"name": "Dagger, punching",                    "value_min": 20,    "value_max": 21,    "repeat": "false",      "base_price": 302,                              "dmg_type": "pierce" },
+                    {"name": "Falchion",                            "value_min": 22,    "value_max": 23,    "repeat": "false",      "base_price": 375,                              "dmg_type": "slash" },
+                    {"name": "Flail, dire",                         "value_min": 24,    "value_max": 26,    "repeat": "false",      "base_price": 690,                              "dmg_type": "blunt" },
+                    {"name": "Flail, heavy",                        "value_min": 27,    "value_max": 31,    "repeat": "false",      "base_price": 315,                              "dmg_type": "blunt" },
+                    {"name": "Flail, light",                        "value_min": 32,    "value_max": 35,    "repeat": "false",      "base_price": 308,                              "dmg_type": "blunt" },
+                    {"name": "Gauntlet",                            "value_min": 36,    "value_max": 37,    "repeat": "false",      "base_price": 302,                              "dmg_type": "blunt" },
+                    {"name": "Gauntlet, spiked",                    "value_min": 38,    "value_max": 39,    "repeat": "false",      "base_price": 305,                              "dmg_type": "blunt" },
+                    {"name": "Glaive",                              "value_min": 40,    "value_max": 41,    "repeat": "false",      "base_price": 308,                              "dmg_type": "slash" },
+                    {"name": "Greatclub",                           "value_min": 42,    "value_max": 43,    "repeat": "false",      "base_price": 305,                              "dmg_type": "blunt" },
+                    {"name": "Guisarme",                            "value_min": 44,    "value_max": 45,    "repeat": "false",      "base_price": 309,                              "dmg_type": "slash" },
+                    {"name": "Halberd",                             "value_min": 46,    "value_max": 48,    "repeat": "false",      "base_price": 310,                              "dmg_type": "slash*" },
+                    {"name": "Halfspear",                           "value_min": 49,    "value_max": 51,    "repeat": "false",      "base_price": 301,                              "dmg_type": "pierce" },
+                    {"name": "Hammer, gnome hooked",                "value_min": 52,    "value_max": 54,    "repeat": "false",      "base_price": 620,                              "dmg_type": "blunt*" },
+                    {"name": "Hammer, light",                       "value_min": 55,    "value_max": 56,    "repeat": "false",      "base_price": 301,                              "dmg_type": "blunt" },
+                    {"name": "Handaxe",                             "value_min": 57,    "value_max": 58,    "repeat": "false",      "base_price": 306,                              "dmg_type": "slash" },
+                    {"name": "Kukri",                               "value_min": 59,    "value_max": 61,    "repeat": "false",      "base_price": 308,                              "dmg_type": "slash" },
+                    {"name": "Lance",                               "value_min": 62,    "value_max": 64,    "repeat": "false",      "base_price": 310,                              "dmg_type": "pierce" },
+                    {"name": "Longspear",                           "value_min": 65,    "value_max": 67,    "repeat": "false",      "base_price": 305,                              "dmg_type": "pierce" },
+                    {"name": "Morningstar",                         "value_min": 68,    "value_max": 70,    "repeat": "false",      "base_price": 308,                              "dmg_type": "blunt*" },
+                    {"name": "Net",                                 "value_min": 71,    "value_max": 72,    "repeat": "false",      "base_price": 320,                              "dmg_type": "None" },
+                    {"name": "Pick, heavy",                         "value_min": 73,    "value_max": 74,    "repeat": "false",      "base_price": 308,                              "dmg_type": "pierce" },
+                    {"name": "Pick, light",                         "value_min": 75,    "value_max": 76,    "repeat": "false",      "base_price": 304,                              "dmg_type": "pierce" },
+                    {"name": "Ranseur",                             "value_min": 77,    "value_max": 78,    "repeat": "false",      "base_price": 310,                              "dmg_type": "pierce" },
+                    {"name": "Sap",                                 "value_min": 79,    "value_max": 80,    "repeat": "false",      "base_price": 301,                              "dmg_type": "blunt" },
+                    {"name": "Scythe",                              "value_min": 81,    "value_max": 82,    "repeat": "false",      "base_price": 318,                              "dmg_type": "slash*" },
+                    {"name": "Shuriken",                            "value_min": 83,    "value_max": 84,    "repeat": "false",      "base_price": 301,                              "dmg_type": "pierce" },
+                    {"name": "Sickle",                              "value_min": 85,    "value_max": 86,    "repeat": "false",      "base_price": 306,                              "dmg_type": "slash" },
+                    {"name": "Sword, two-bladed",                   "value_min": 87,    "value_max": 89,    "repeat": "false",      "base_price": 700,                              "dmg_type": "slash" },
+                    {"name": "Trident",                             "value_min": 90,    "value_max": 91,    "repeat": "false",      "base_price": 315,                              "dmg_type": "pierce" },
+                    {"name": "Urgrosh, dwarven",                    "value_min": 92,    "value_max": 94,    "repeat": "false",      "base_price": 650,                              "dmg_type": "slash*" },
+                    {"name": "Warhammer",                           "value_min": 95,    "value_max": 97,    "repeat": "false",      "base_price": 312,                              "dmg_type": "blunt" },
+                    {"name": "Whip",                                "value_min": 98,    "value_max": 100,   "repeat": "false",      "base_price": 301,                              "dmg_type": "slash" }
                 ]
             }
         ],
         "Common Ranged Weapons":[
             {
-                "difficulty": "minor",
+                "difficulty": "every",
                 "category" :[
+                    {"name": "Ammunition(50 of DMs choice,can mix)","value_min": 1,     "value_max": 10,    "repeat": "false",      "base_price": 350,                              "dmg_type": "blunt*" },
+                    {"name": "Axe, throwing",                       "value_min": 11,    "value_max": 15,    "repeat": "false",      "base_price": 308,                              "dmg_type": "slash" },
+                    {"name": "Crossbow, heavy",                     "value_min": 16,    "value_max": 25,    "repeat": "false",      "base_price": 350,                              "dmg_type": "pierce" },
+                    {"name": "Crossbow, light",                     "value_min": 26,    "value_max": 35,    "repeat": "false",      "base_price": 335,                              "dmg_type": "pierce" },
+                    {"name": "Dart",                                "value_min": 36,    "value_max": 39,    "repeat": "false",      "base_price": 300,                              "dmg_type": "pierce" },
+                    {"name": "Javelin",                             "value_min": 40,    "value_max": 41,    "repeat": "false",      "base_price": 301,                              "dmg_type": "pierce" },
+                    {"name": "Shortbow",                            "value_min": 42,    "value_max": 46,    "repeat": "false",      "base_price": 330,                              "dmg_type": "pierce" },
+                    {"name": "Shortbow, composite (+0 Str bonus)",  "value_min": 47,    "value_max": 51,    "repeat": "false",      "base_price": 375,                              "dmg_type": "pierce" },
+                    {"name": "Shortbow, composite (+1 Str bonus)",  "value_min": 52,    "value_max": 56,    "repeat": "false",      "base_price": 450,                              "dmg_type": "pierce" },
+                    {"name": "Shortbow, composite (+2 Str bonus)",  "value_min": 57,    "value_max": 61,    "repeat": "false",      "base_price": 525,                              "dmg_type": "pierce" },
+                    {"name": "Sling",                               "value_min": 62,    "value_max": 65,    "repeat": "false",      "base_price": 300,                              "dmg_type": "blunt" },
+                    {"name": "Longbow",                             "value_min": 66,    "value_max": 75,    "repeat": "false",      "base_price": 375,                              "dmg_type": "pierce" },
+                    {"name": "Longbow, composite",                  "value_min": 76,    "value_max": 80,    "repeat": "false",      "base_price": 400,                              "dmg_type": "pierce" },
+                    {"name": "Longbow, composite (+1 Str bonus)",   "value_min": 81,    "value_max": 85,    "repeat": "false",      "base_price": 500,                              "dmg_type": "pierce" },
+                    {"name": "Longbow, composite (+2 Str bonus)",   "value_min": 86,    "value_max": 90,    "repeat": "false",      "base_price": 600,                              "dmg_type": "pierce" },
+                    {"name": "Longbow, composite (+3 Str bonus)",   "value_min": 91,    "value_max": 95,    "repeat": "false",      "base_price": 700,                              "dmg_type": "pierce" },
+                    {"name": "Longbow, composite (+4 Str bonus)",   "value_min": 96,    "value_max": 100,   "repeat": "false",      "base_price": 800,                              "dmg_type": "pierce" }
 
                 ]
             }
@@ -426,8 +490,51 @@
             {
                 "difficulty": "minor",
                 "category" :[
-
+                    {"name": "Bane",                                "value_min": 1,     "value_max": 10,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 1},
+                    {"name": "Defending",                           "value_min": 11,    "value_max": 17,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 1},
+                    {"name": "Flame",                               "value_min": 18,    "value_max": 27,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 1},
+                    {"name": "Frost",                               "value_min": 28,    "value_max": 37,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 1},
+                    {"name": "Shock",                               "value_min": 38,    "value_max": 47,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 1},
+                    {"name": "Ghost touch",                         "value_min": 48,    "value_max": 56,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 1},
+                    {"name": "Keen",                                "value_min": 57,    "value_max": 67,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 1},
+                    {"name": "Ki Focus",                            "value_min": 68,    "value_max": 71,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 1},
+                    {"name": "Merciful",                            "value_min": 72,    "value_max": 75,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 1},
+                    {"name": "Mighty cleaving",                     "value_min": 76,    "value_max": 82,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 1},
+                    {"name": "Spell storing",                       "value_min": 83,    "value_max": 87,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 1},
+                    {"name": "Throwing",                            "value_min": 88,    "value_max": 91,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 1},
+                    {"name": "Thundering",                          "value_min": 92,    "value_max": 95,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 1},
+                    {"name": "Vicious",                             "value_min": 96,    "value_max": 99,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 1},
+                    {"name": "Roll again twice",                    "value_min": 100,   "value_max": 100,   "repeat": "2true",      "base_price": 0,        "enhancement_bonus": 0}
                 ]
+            },
+            {
+               "difficulty": "medium",
+               "category" :[
+                    {"name": "Bane",                                "value_min": 1,     "value_max": 6,     "repeat": "false",      "base_price": 0,        "enhancement_bonus": 1},
+                    {"name": "Defending",                           "value_min": 7,     "value_max": 12,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 1},
+                    {"name": "Flame",                               "value_min": 13,    "value_max": 19,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 1},
+                    {"name": "Frost",                               "value_min": 20,    "value_max": 26,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 1},
+                    {"name": "Shock",                               "value_min": 27,    "value_max": 33,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 1},
+                    {"name": "Ghost touch",                         "value_min": 34,    "value_max": 38,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 1},
+                    {"name": "Keen",                                "value_min": 39,    "value_max": 44,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 1},
+                    {"name": "Ki Focus",                            "value_min": 45,    "value_max": 48,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 1},
+                    {"name": "Merciful",                            "value_min": 49,    "value_max": 50,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 1},
+                    {"name": "Mighty cleaving",                     "value_min": 51,    "value_max": 54,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 1},
+                    {"name": "Spell storing",                       "value_min": 55,    "value_max": 59,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 1},
+                    {"name": "Throwing",                            "value_min": 60,    "value_max": 63,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 1},
+                    {"name": "Thundering",                          "value_min": 64,    "value_max": 65,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 1},
+                    {"name": "Vicious",                             "value_min": 66,    "value_max": 69,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 1},
+                    {"name": "Anarchic",                            "value_min": 70,    "value_max": 72,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 2},
+                    {"name": "Axiomatic",                           "value_min": 73,    "value_max": 75,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 2},
+                    {"name": "Disruption",                          "value_min": 76,    "value_max": 78,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 2},
+                    {"name": "Flaming burst",                       "value_min": 79,    "value_max": 81,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 2},
+                    {"name": "Icy burst",                           "value_min": 82,    "value_max": 84,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 2},
+                    {"name": "Holy",                                "value_min": 85,    "value_max": 87,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 2},
+                    {"name": "Shocking burst",                      "value_min": 88,    "value_max": 90,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 2},
+                    {"name": "Unholy",                              "value_min": 91,    "value_max": 93,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 2},
+                    {"name": "Wounding",                            "value_min": 94,    "value_max": 95,    "repeat": "false",      "base_price": 0,        "enhancement_bonus": 2},
+                    {"name": "Roll again twice",                    "value_min": 96,    "value_max": 100,   "repeat": "2true",      "base_price": 0,        "enhancement_bonus": 0}
+               ]
             }
         ],
         "Ranged Weapons Special Abilities":[
