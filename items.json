@@ -635,9 +635,10 @@
         ],
         "Major Wondrous Items":[
             {
+                //TODO
                 "difficulty": "minor",
                 "category" :[
-                    {"name": "Dimensional shackles", "value_min": 1, "value_max": 1, "repeat": "false"},
+                    {"name": "Dimensional shackles",            "value_min": 1, "value_max": 1, "repeat": "false"},
                     {"name": "Figurine of wondrous power, obsidian steed", "value_min": 2, "value_max": 2, "repeat": "false"},
                     {"name": "Drums of panic", "value_min": 3, "value_max": 3, "repeat": "false"},
                     {"name": "Ioun stone, orange", "value_min": 4, "value_max": 4, "repeat": "false"},
@@ -740,6 +741,7 @@
                 ]
             },
             {
+                //TODO
                 "difficulty": "medium",
                 "category" :[
                     {"name": "Dimensional shackles", "value_min": 1, "value_max": 1, "repeat": "false"},
